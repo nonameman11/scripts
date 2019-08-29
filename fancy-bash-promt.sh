@@ -35,6 +35,8 @@
 ##	Run this command from any terminal: 
 ##		echo "source ~/.fancy-bash-promt.sh" >> ~/.bashrc
 ##
+##	Install powerline fonts (((     sudo apt install fonts-powerline    [[[[[On Ubuntu/Debian]]]]]])))))
+##
 ##	Alternatively, copy the content of this file into your .bashrc file
 ##
 ##
